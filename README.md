@@ -10,4 +10,4 @@
 
 - 사용 tool : python, tableu
 - code
-- 발표자료
+- [[발표자료]](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/blob/main/%EA%B3%A0%EC%9A%A9%EC%9C%84%EA%B8%B0%EB%B6%84%EC%84%9D_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
