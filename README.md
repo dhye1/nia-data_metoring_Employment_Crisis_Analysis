@@ -32,7 +32,8 @@
 <br/>
 
 ### 군집별 패턴 분석 결과
-![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/b7a12183-219c-4cb0-873a-97c474414b62)
+![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/286330c7-459f-4b43-92fd-87866bb703dd)
+
 <br/>
 
 
