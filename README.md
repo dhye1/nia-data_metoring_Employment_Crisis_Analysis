@@ -28,7 +28,7 @@
 ![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/3945602b-00ff-4ab8-a5bb-c4fef8387603)
 <br/>
 
-빨간색 동그라미 포인트가 매칭이 되었을 때, Euclidean distance가 최소가 되는 포인트를 매칭 시켜 주는 것이 dtw algorithm 의 핵심이다.
+- 빨간색 동그라미 포인트가 매칭이 되었을 때, Euclidean distance가 최소가 되는 포인트를 매칭 시켜 주는 것이 dtw algorithm 의 핵심이다.
 <br/>
 
 ### 군집별 패턴 분석 결과
