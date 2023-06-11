@@ -40,6 +40,7 @@
 ![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/286330c7-459f-4b43-92fd-87866bb703dd)
 
 <br/>
+
 - 패턴 별 산업 분류
 - 0번 군집 : S자 패턴, 외부 충격에 민감한 산업
 - 1번 군집 : W자 패턴, 코로나 확산으로 회복 단계의 산업이 다시 악화 된 군집으로, S자에서 심화된 양상
