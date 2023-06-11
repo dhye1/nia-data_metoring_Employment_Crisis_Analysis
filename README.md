@@ -29,15 +29,33 @@
 <br/>
 
 - 빨간색 동그라미 포인트가 매칭이 되었을 때, Euclidean distance가 최소가 되는 포인트를 매칭 시켜 주는 것이 dtw algorithm 의 핵심이다.
+![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/bfbf782e-83d1-4e5f-ac27-727066465797)
+- (2) 또는 (3)으로 거리계산 방법을 먼저 정의한 후, 
+![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/b03ddf88-6d39-4cd3-b60e-99a882736dc8)
+- (4) 점화식을 통해 누적된 거리값을 구해 최종적인 DTW 값을 구한다.
+
 <br/>
 
 ### 군집별 패턴 분석 결과
 ![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/286330c7-459f-4b43-92fd-87866bb703dd)
 
 <br/>
+- 패턴 별 산업 분류
+- 0번 군집 : S자 패턴, 외부 충격에 민감한 산업
+- 1번 군집 : W자 패턴, 코로나 확산으로 회복 단계의 산업이 다시 악화 된 군집으로, S자에서 심화된 양상
+- 패턴이 전환되기 전 선제 위기 대처 전략이 필요함을 인식
 
+<br/>
 
+- 유형별 맞춤화 전략 제시
+- S자, W자 패턴 : 산업 다각화 및 고도화를 통해 외부충격에 대한 취약성 보완
+- 대기업 의존도 높은 군집 : 중소기업 역량 강화를 통해 대기업 의존도 완화
 
+<br/>
+
+- 일자리 미스매칭 현황 분석 및 모니터링 대시보드
+(예시)
+![image](https://github.com/dhye1/nia-data_metoring_Employment_Crisis_Analysis/assets/96327142/aef27ff9-bb70-4c90-92cd-d742d75c10fb)
 <br/>
 
 - 사용 tool : python, tableu
